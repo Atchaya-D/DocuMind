@@ -118,3 +118,4 @@ The system combines semantic search, vector retrieval, local LLM inference, tabl
        ┌──────────────────┐
        │ Answer + Sources │
        └──────────────────┘
+Streamlit link: https://atchaya-d-documind-app-qzpvyf.streamlit.app/
