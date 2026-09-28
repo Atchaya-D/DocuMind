@@ -50,6 +50,7 @@ The system combines semantic search, vector retrieval, local LLM inference, tabl
   - Uses local LLM inference
   - No external LLM API is required for the core RAG pipeline
   - Documents can remain on the local machine
+  Streamlit link: https://atchaya-d-documind-app-qzpvyf.streamlit.app/
 
 ---
 
@@ -118,4 +119,3 @@ The system combines semantic search, vector retrieval, local LLM inference, tabl
        ┌──────────────────┐
        │ Answer + Sources │
        └──────────────────┘
-Streamlit link: https://atchaya-d-documind-app-qzpvyf.streamlit.app/
